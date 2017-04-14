@@ -2,10 +2,9 @@
 
 
 void setup (){
-  size (500, 500);
+  size (800, 500);
+  background (27, 26, 90);
 }
 
 void draw (){
-  rectMode (CENTER);
-  rect (250, 250, 250, 250);
 }
