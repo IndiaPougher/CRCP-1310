@@ -1,0 +1,2 @@
+class BigStar extends Star {
+}

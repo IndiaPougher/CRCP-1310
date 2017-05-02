@@ -1,0 +1,2 @@
+class SmallStar extends Star {   
+}

@@ -1,5 +1,6 @@
 //India Pougher
 
+Star[] objects = new Star[50];
 float x = 200;
 float y = 200;
 
@@ -10,15 +11,7 @@ void setup () {
 
 void draw () {
   if (mousePressed) {
-    noStroke ();
-    fill (254, 255, 203);
-    beginShape();
-    vertex ((x-10), (y+50));
-    vertex (x, y);
-    vertex ((x+20), (y+50));
-    vertex ((x-30), (y+20));
-    vertex ((x+30), (y+20));
-    endShape();
+    
   }
 }
 
