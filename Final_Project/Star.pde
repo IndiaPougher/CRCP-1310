@@ -54,6 +54,6 @@ class Star {
     }
     if (key == '0') {
       starColor = color (round(random (250, 254)), 255, round (random (0, 203)));
-    }
+    } 
   }
 }
